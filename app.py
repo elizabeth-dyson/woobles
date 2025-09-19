@@ -2,11 +2,12 @@ import streamlit as st
 
 
 xmas_overview = st.Page("xmas_2025/overview.py", title="Kit Overview", icon=":material/ac_unit:")
+first_box = st.Page("xmas_2025/first_box.py", title="Box #1", icon=":material/redeem:")
 
 
 nav = {
     "Christmas Toy to the World Advent 2025": [
-        xmas_overview
+        xmas_overview, first_box
     ]
 }
 
