@@ -43,8 +43,8 @@ st.write("✅ 9/22: Rounds 13-15")
 st.write("✅ 9/23: Rounds 16-18")
 
 st.write("Ears:")
-st.write("- 9/24: 2 rounds x1")
-st.write("- 9/25: 2 rounds x1")
+st.write("✅ 9/24: 2 rounds x1")
+st.write("✅ 9/25: 2 rounds x1")
 
 st.write("Arms:")
 st.write("- 9/26: 1 round x2")
