@@ -47,11 +47,11 @@ st.write("✅ 9/24: 2 rounds x1")
 st.write("✅ 9/25: 2 rounds x1")
 
 st.write("Arms:")
-st.write("- 9/26: 1 round x2")
+st.write("✅ 9/26: 1 round x2")
 
 st.write("Tail:")
 st.write("- 7 rounds")
-st.write("- 9/27: Rounds 1-3")
+st.write("✅ 9/27: Rounds 1-3")
 st.write("- 9/28: Rounds 4-5")
 st.write("- 9/29: Rounds 6-7")
 
