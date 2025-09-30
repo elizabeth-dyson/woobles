@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title("Christmas 2025 Kit Overview")
 
-st.write("1. Large: September 18 - October 2")
+st.page_link("xmas_2025/first_box.py", label="#1 - Large: September 18 - October 2 (Serge the Beaver)")
 st.write("2. Small: October 2 - October 6")
 st.write("3. Small: October 6 - October 9")
 st.write("4. Large: October 9 - October 23")

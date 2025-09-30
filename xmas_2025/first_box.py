@@ -50,19 +50,26 @@ st.write("Arms:")
 st.write("✅ 9/26: 1 round x2")
 
 st.write("Tail:")
-st.write("- 7 rounds")
+st.write("✅ 7 rounds")
 st.write("✅ 9/27: Rounds 1-3")
-st.write("- 9/28: Rounds 4-5")
-st.write("- 9/29: Rounds 6-7")
+st.write("✅ 9/28: Rounds 4-5")
+st.write("✅ 9/29: Rounds 6-7")
 
 st.write("Snout:")
-st.write("- 9/30: 1 round x2")
+st.write("✅ 9/30: 1 round x2")
 
 st.write("Teeth:")
-st.write("- 10/1: 2 rounds")
+st.write("✅ 10/1: 2 rounds")
 
 st.write("Nose:")
-st.write("- 10/2: 1 round")
+st.write("✅ 10/2: 1 round")
 
 st.write("Teeth Embroidery:")
-st.write("- 10/2: 1 round")
+st.write("✅ 10/2: 1 round")
+
+st.subheader("Completed on September 30")
+
+image1_c, image2_c = st.columns(2)
+
+image1_c.image("xmas_2025/serge_front.jpeg", width="stretch")
+image2_c.image("xmas_2025/serge_angle.jpeg", width="stretch")
