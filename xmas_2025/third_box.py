@@ -27,9 +27,13 @@ with text_c:
 
     st.subheader("Timeline")
 
+    st.write("YOYO:")
+    st.write("✅ 10/3: 7 rounds")
+    
+    st.write("STRING:")
+    st.write("✅ 10/3: Tie & wrap string")
 
-
-    st.subheader("Completed on ")
+    st.subheader("Completed on October 3")
 
 
 with pic_c:
@@ -37,4 +41,5 @@ with pic_c:
     st.image(load_fixed_image("xmas_2025/pictures/box_3_sides.jpeg"), width="stretch")
     st.image(load_fixed_image("xmas_2025/pictures/yoyo_card_front.jpeg"), width="stretch")
     st.image(load_fixed_image("xmas_2025/pictures/yoyo_card_back.jpeg"), width="stretch")
-    
+    st.image(load_fixed_image("xmas_2025/pictures/yoyo_front.jpeg"), width="stretch")
+    st.image(load_fixed_image("xmas_2025/pictures/yoyo_angle.jpeg"), width="stretch")

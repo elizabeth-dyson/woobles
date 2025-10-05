@@ -13,9 +13,9 @@ text_c, pic_c = st.columns(2)
 
 with text_c:
     st.page_link("xmas_2025/first_box.py", label="#1 - Large: September 18 - October 2 (Serge the Beaver)")
-    st.page_link("xmas_2025/second_box.py", label="#2 - Small: October 2 - October 6")
-    st.page_link("xmas_2025/third_box.py", label="#3 - Small: October 6 - October 9")
-    st.page_link("xmas_2025/fourth_box.py", label="#4 - Large: October 9 - October 23")
+    st.page_link("xmas_2025/second_box.py", label="#2 - Small: October 2 - October 6 (Tiny Toy Candy)")
+    st.page_link("xmas_2025/third_box.py", label="#3 - Small: October 6 - October 9 (Tiny Yo-Yo)")
+    st.page_link("xmas_2025/fourth_box.py", label="#4 - Large: October 9 - October 23 (Lana the Alpaca)")
     st.page_link("xmas_2025/fifth_box.py", label="#5 - Medium: October 23 - October 27")
     st.page_link("xmas_2025/sixth_box.py", label="#6 - Small: October 27 - October 30")
     st.page_link("xmas_2025/seventh_box.py", label="#7 - Large: October 30 - November 13")
