@@ -66,11 +66,11 @@ with text_c:
     st.write("✅ 10/17: Steps 1-5")
 
     st.write("HAIR")
-    st.write("- 2 rows")
+    st.write("✅ 2 rows")
     st.write("✅ 10/18: Row 1")
-    st.write("- 10/19: Row 2")
+    st.write("✅ 10/19: Row 2")
 
-    st.subheader("Completed on ")
+    st.subheader("Completed on October 30")
 
 
     with pic_c:
@@ -81,3 +81,5 @@ with text_c:
         st.image(load_fixed_image("xmas_2025/pictures/box_4_contents.jpeg"), width='stretch')
         st.image(load_fixed_image("xmas_2025/pictures/lana_card_front.jpeg"), width='stretch')
         st.image(load_fixed_image("xmas_2025/pictures/lana_card_back.jpeg"), width='stretch')
+        st.image(load_fixed_image("xmas_2025/pictures/lana_front.jpeg"), width='stretch')
+        st.image(load_fixed_image("xmas_2025/pictures/lana_angle.jpeg"), width='stretch')
